@@ -1,7 +1,7 @@
 {
   "name": "trình-quản-lý-tài-chính-cá-nhân",
   "private": true,
-  "version": "0.0.0",
+  "version": "4.0.0",
   "type": "module",
   "homepage": "https://thanhdatio.github.io/manhmelen/",
   "scripts": {
